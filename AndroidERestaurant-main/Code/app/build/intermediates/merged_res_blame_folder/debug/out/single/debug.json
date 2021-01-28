@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_rec_full.xml.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\drawable\\border_rec_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_food.xml.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\layout\\activity_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable_right_arrow.xml.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\drawable\\right_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_image404.png.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\drawable-v24\\image404.png"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_searching.png.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\drawable-v24\\searching.png"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable_simple_line.xml.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\drawable\\simple_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycler_template.xml.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\layout\\recycler_template.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vue_mer.jpg.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\drawable-v24\\vue_mer.jpg"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_product.xml.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\layout\\activity_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

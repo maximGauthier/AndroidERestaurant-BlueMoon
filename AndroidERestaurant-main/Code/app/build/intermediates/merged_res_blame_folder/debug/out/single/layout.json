@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\recycler_template.xml",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\layout\\recycler_template.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_product.xml",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\layout\\activity_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_food.xml",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\layout\\activity_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "C:\\Users\\maxime.gauthier\\projects\\Android\\AndroidERestaurant-BlueMoon\\AndroidERestaurant-main\\Code\\app\\src\\main\\res\\layout\\activity_home.xml"
+    }
+]

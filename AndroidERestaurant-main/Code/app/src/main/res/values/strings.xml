@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BlueMoon</string>
+    <string-array name="entries_title">
+        <item>Tartare de viande</item>
+        <item>Assiette de charcuterie</item>
+        <item>Assiette de poivrons et piments</item>
+    </string-array>
+    <string-array name="entries_spec">
+        <item>description 1</item>
+        <item>description 2</item>
+        <item>description 3</item>
+    </string-array>
+    <string-array name="main_title">
+        <item>main 1</item>
+        <item>main 2</item>
+        <item>main 3</item>
+    </string-array>
+    <string-array name="dessert_title">
+        <item>dessert 1</item>
+        <item>dessert 2</item>
+        <item>dessert original mais au nom très long pour vérifier que ça ne dépasse pas même si on est une chaine de caractères très très longue</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+fr/isen/gauthier/androiderestaurant2/databinding/ActivityFoodBinding.java
+ fr.isen.gauthier.androiderestaurant2.databinding.ActivityFoodBinding
+fr/isen/gauthier/androiderestaurant2/BuildConfig.java
+ fr.isen.gauthier.androiderestaurant2.BuildConfig
+fr/isen/gauthier/androiderestaurant2/databinding/RecyclerTemplateBinding.java
+ fr.isen.gauthier.androiderestaurant2.databinding.RecyclerTemplateBinding
+fr/isen/gauthier/androiderestaurant2/databinding/ActivityHomeBinding.java
+ fr.isen.gauthier.androiderestaurant2.databinding.ActivityHomeBinding
+fr/isen/gauthier/androiderestaurant2/databinding/ActivityProductBinding.java
+ fr.isen.gauthier.androiderestaurant2.databinding.ActivityProductBinding
